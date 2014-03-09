@@ -6,8 +6,8 @@
 package com.aliilyas.randomuser;
 
 import com.google.gson.Gson;
-import com.aliilyas.randomuserjava.pojo.RandomResponse;
-import com.aliilyas.randomuserjava.pojo.User;
+import com.aliilyas.randomuser.pojo.RandomResponse;
+import com.aliilyas.randomuser.pojo.User;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

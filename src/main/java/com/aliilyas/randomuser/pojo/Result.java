@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.aliilyas.randomuserjava.pojo;
+package com.aliilyas.randomuser.pojo;
 
 import java.util.HashMap;
 import java.util.Map;
